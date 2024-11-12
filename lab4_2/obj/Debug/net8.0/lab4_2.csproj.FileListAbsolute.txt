@@ -1,0 +1,14 @@
+C:\Users\stepa\Documents\code\lab4\lab4_2\bin\Debug\net8.0\lab4_2.exe
+C:\Users\stepa\Documents\code\lab4\lab4_2\bin\Debug\net8.0\lab4_2.deps.json
+C:\Users\stepa\Documents\code\lab4\lab4_2\bin\Debug\net8.0\lab4_2.runtimeconfig.json
+C:\Users\stepa\Documents\code\lab4\lab4_2\bin\Debug\net8.0\lab4_2.dll
+C:\Users\stepa\Documents\code\lab4\lab4_2\bin\Debug\net8.0\lab4_2.pdb
+C:\Users\stepa\Documents\code\lab4\lab4_2\obj\Debug\net8.0\lab4_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stepa\Documents\code\lab4\lab4_2\obj\Debug\net8.0\lab4_2.AssemblyInfoInputs.cache
+C:\Users\stepa\Documents\code\lab4\lab4_2\obj\Debug\net8.0\lab4_2.AssemblyInfo.cs
+C:\Users\stepa\Documents\code\lab4\lab4_2\obj\Debug\net8.0\lab4_2.csproj.CoreCompileInputs.cache
+C:\Users\stepa\Documents\code\lab4\lab4_2\obj\Debug\net8.0\lab4_2.dll
+C:\Users\stepa\Documents\code\lab4\lab4_2\obj\Debug\net8.0\refint\lab4_2.dll
+C:\Users\stepa\Documents\code\lab4\lab4_2\obj\Debug\net8.0\lab4_2.pdb
+C:\Users\stepa\Documents\code\lab4\lab4_2\obj\Debug\net8.0\lab4_2.genruntimeconfig.cache
+C:\Users\stepa\Documents\code\lab4\lab4_2\obj\Debug\net8.0\ref\lab4_2.dll
